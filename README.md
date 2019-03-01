@@ -28,5 +28,5 @@ Countin Pairs
 First line takes the size of the Integer Array
 Next 'n'(length of array) lines take elements of the array
 Last line takes the difference (Integer)
-#output
+#Output
 Integer representing count of distinct pairs
