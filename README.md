@@ -21,7 +21,6 @@ Integer Representing Sum
 #Each representing top of the stack
 
 #Question 3
-
 Countin Pairs
 
 #Input
