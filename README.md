@@ -1,31 +1,31 @@
 # PickYourTrail
 PickYourTrail Assignment
 
-#Question 1
-#MinimumUniqueArraySum
+#Question 1<br/>
+#MinimumUniqueArraySum<br/>
 
-#Input 
+#Input<br/>
 #First Line takes the size of the Integer Array<br/> 
-#Next lines take input elements
-#Output
-Integer Representing Sum
+#Next lines take input elements<br/>
+#Output<br/>
+Integer Representing Sum<br/>
 
-#Question 2
-#Super Stack
+#Question 2<br/>
+#Super Stack<br/>
 
-#Input 
-#First line takes count of operations
-#Next lines take 'n' (where n is the count of operations) string - Each String representing the operation
-#Output
-#'n' lines 
-#Each representing top of the stack
+#Input <br/>
+#First line takes count of operations<br/>
+#Next lines take 'n' (where n is the count of operations) string - Each String representing the operation<br/>
+#Output<br/>
+#'n' lines<br/>
+#Each representing top of the stack<br/>
 
-#Question 3
-Countin Pairs
+#Question 3<br/>
+Countin Pairs<br/>
 
-#Input
-#First line takes the size of the Integer Array
-#Next 'n'(length of array) lines take elements of the array
-#Last line takes the difference (Integer)
-#Output
-#Integer representing count of distinct pairs
+#Input<br/>
+#First line takes the size of the Integer Array<br/>
+#Next 'n'(length of array) lines take elements of the array<br/>
+#Last line takes the difference (Integer)<br/>
+#Output<br/>
+#Integer representing count of distinct pairs<br/>
