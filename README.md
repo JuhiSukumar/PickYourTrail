@@ -5,7 +5,7 @@ PickYourTrail Assignment
 #MinimumUniqueArraySum
 
 #Input 
-#First Line takes the size of the Integer Array 
+#First Line takes the size of the Integer Array<br/> 
 #Next lines take input elements
 #Output
 Integer Representing Sum
